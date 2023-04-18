@@ -1,0 +1,1 @@
+2023/04/10 21:46:02 [error] 19184#14180: *124 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10016", host: "jumanjado-petstore.local", referrer: "http://jumanjado-petstore.local/wp-admin/"
